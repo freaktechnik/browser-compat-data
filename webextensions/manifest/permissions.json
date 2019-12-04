@@ -573,6 +573,28 @@
             }
           }
         },
+        "networkStatus": {
+          "__compat": {
+            "description": "<code>networkStatus</code>",
+            "support": {
+              "chrome": {
+                "version_added": false
+              },
+              "edge": {
+                "version_added": false
+              },
+              "firefox": {
+                "version_added": "70"
+              },
+              "firefox_android": {
+                "version_added": false
+              },
+              "opera": {
+                "version_added": false
+              }
+            }
+          }
+        },
         "notifications": {
           "__compat": {
             "description": "<code>notifications</code>",
